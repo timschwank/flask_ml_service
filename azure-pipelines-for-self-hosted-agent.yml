@@ -6,11 +6,11 @@ trigger:
 - main
 
 # TODO: Replace the agent pool name
-pool: myAgentPool
+pool: d
 
 variables:
   # TODO: Replace the service connection name as used in the DevOps project settings
-  azureServiceConnectionId: 'mySC'
+  azureServiceConnectionId: 'test'
   
   # TODO: Specify the value of the existing Web App name
   webAppName: 'mywebapp207578'
